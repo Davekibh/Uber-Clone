@@ -6,3 +6,8 @@ This is just a clonned part of uber where you can see the driver's location and 
 
 Fork this repository unpak it and open it in Android Studio.
 
+Android 4.0 and above version is mandatory.
+
+Google Maps API is necessary to run this project.
+
+Happy Coding!
